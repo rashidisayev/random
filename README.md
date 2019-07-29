@@ -8,6 +8,7 @@ Open your favorite terminal and type following commands:
 ```bash
 cd ~/Desktop/
 mkdir rashidisayev_test
+cd rashidisayev_test
 git clone https://github.com/rashidisayev/random.git
 chmod +x simple_random.sh
 sh simple_random.sh 1 10
